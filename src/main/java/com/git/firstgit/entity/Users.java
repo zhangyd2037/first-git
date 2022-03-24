@@ -9,4 +9,5 @@ public class Users {
     private int age;
 
     private String color;
+    private String master;
 }
