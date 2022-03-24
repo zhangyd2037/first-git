@@ -10,4 +10,5 @@ public class Users {
 
     private String color;
     private String master;
+    private String hofFix;
 }
