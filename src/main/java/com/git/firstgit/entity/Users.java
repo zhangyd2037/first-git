@@ -12,4 +12,5 @@ public class Users {
     private String master;
     private String hofFix;
     private String pushtest;
+    private String pulltest;
 }
